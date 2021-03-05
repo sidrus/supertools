@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " xa",
+    "x  ",
+    "   "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:stick"
+    },
+    "a":
+    {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result":
+  {
+    "item": "supertools:wool_carder"
+  }
+}

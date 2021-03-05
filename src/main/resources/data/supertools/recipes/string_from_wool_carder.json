@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "supertools:wool_carder"
+    },
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
+  "result":
+  {
+    "item": "minecraft:string",
+    "count": 4
+  }
+}
