@@ -17,5 +17,6 @@ public class DataGenerators {
         ExistingFileHelper fileHelper = event.getExistingFileHelper();
 
         gen.addProvider(new SlabsToBlockRecipeProvider(gen));
+        gen.addProvider(new MiscellaneousRecipeProvider(gen));
     }
 }
