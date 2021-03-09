@@ -12,6 +12,7 @@
 # Project-specific stuff
 logs
 run
+src/generated
 
 # File-based project format
 *.iws
